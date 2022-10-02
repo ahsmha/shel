@@ -3,7 +3,7 @@
 Smash is a simple implementation of a shell in C
 
 ### What it can do?
-- Can do all the basic features any shell has i.e, `read`, `parse`, `fork`, `exec` and `wait`
+- Can do all the basic functions any shell has i.e, `read`, `parse`, `fork`, `exec` and `wait`
 - Builtin commands are: `cd`, `help`, `exit`
 
 ### What it can't do?
